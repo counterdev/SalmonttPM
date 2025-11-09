@@ -7,14 +7,14 @@ package model;
 public class Direccion {
 
     /**
-     * Atributos privados, aplicando encapsulamiento. [cite: 57]
+     * Atributos privados, aplicando encapsulamiento.
      */
     private String calle;
     private String ciudad;
     private String region;
 
     /**
-     * Constructor definido para inicializar el objeto. [cite: 60]
+     * Constructor definido para inicializar el objeto.
      *
      * @param calle  Nombre de la calle y número.
      * @param ciudad Ciudad de la dirección.
@@ -27,7 +27,7 @@ public class Direccion {
     }
 
     /**
-     * Métodos públicos get y set. [cite: 58]
+     * Métodos públicos get y set.
      */
     public String getCalle() {
         return calle;
@@ -54,7 +54,7 @@ public class Direccion {
     }
 
     /**
-     * Método toString() sobrescrito para mostrar la dirección de forma legible. [cite: 59]
+     * Método toString() sobrescrito para mostrar la dirección de forma legible.
      *
      * @return Una cadena de texto con la dirección formateada.
      */

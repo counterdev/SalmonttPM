@@ -1,8 +1,8 @@
-# Proyecto: Sistema de Gestión SalmonttPM
+# Proyecto: SalmonttPM
 
 ## Descripción del Propósito
 
-Este proyecto es la implementación de un sistema base en Java para la empresa **Salmontt**. Su objetivo es digitalizar y estructurar la información de las personas vinculadas a la organización (empleados, etc.), resolviendo problemas de duplicación de datos y desorganización. Este modelo sienta las bases para un sistema de gestión más completo, aplicando buenas prácticas de Programación Orientada a Objetos.
+Este proyecto es la implementación de un sistema base en Java para la empresa **Salmontt**. Su objetivo es digitalizar y estructurar la información de las personas vinculadas a la organización (empleados, etc.), resolviendo problemas de duplicación de datos y desorganización. Este modelo sienta las las bases para un sistema de gestión más completo, aplicando buenas prácticas de Programación Orientada a Objetos.
 
 ## Estructura de Paquetes y Clases
 
@@ -22,4 +22,4 @@ El proyecto está organizado en los siguientes paquetes y clases, según la func
 2.  Abrir el proyecto en un IDE compatible con Java (ej. IntelliJ IDEA).
 3.  Ubicar el archivo `Main.java` dentro del paquete `app`.
 4.  Hacer clic derecho en `Main.java` y seleccionar "Run 'Main.main()'" (o presionar el ícono de "play").
-5.  Los resultados de las 3 instancias creadas se mostrarán en la consola.
+5.  Los resultados de las 3 instancias creadas se mostrarán en la consola.a consola.

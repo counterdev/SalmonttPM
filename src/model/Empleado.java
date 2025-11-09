@@ -7,13 +7,13 @@ package model;
 public class Empleado extends Persona {
 
     /**
-     * Atributos propios de Empleado. [cite: 57]
+     * Atributos propios de Empleado.
      */
     private String cargo;
     private double salario;
 
     /**
-     * Constructor definido para inicializar el objeto Empleado. [cite: 60]
+     * Constructor definido para inicializar el objeto Empleado.
      * Utiliza super() para pasar los datos al constructor de la clase padre (Persona).
      *
      * @param rut       El RUT del empleado (heredado).
@@ -32,7 +32,7 @@ public class Empleado extends Persona {
     }
 
     /**
-     * Métodos públicos get y set para los atributos propios. [cite: 58]
+     * Métodos públicos get y set para los atributos propios.
      */
     public String getCargo() {
         return cargo;
@@ -51,7 +51,7 @@ public class Empleado extends Persona {
     }
 
     /**
-     * Método toString() sobrescrito. [cite: 59]
+     * Método toString() sobrescrito.
      * Reutiliza el toString() de la clase padre (Persona) y añade la nueva información.
      *
      * @return Una cadena de texto con los datos completos del empleado.

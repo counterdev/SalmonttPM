@@ -7,14 +7,14 @@ package model;
 public class Persona {
 
     /**
-     * Atributos privados. [cite: 57]
+     * Atributos privados.
      */
     private String rut;
     private String nombre;
     private Direccion direccion; // Composición
 
     /**
-     * Constructor definido para inicializar el objeto Persona. [cite: 60]
+     * Constructor definido para inicializar el objeto Persona.
      *
      * @param rut       El RUT de la persona.
      * @param nombre    El nombre completo de la persona.
@@ -27,7 +27,7 @@ public class Persona {
     }
 
     /**
-     * Métodos públicos get y set. [cite: 58]
+     * Métodos públicos get y set.
      */
     public String getRut() {
         return rut;
@@ -54,7 +54,7 @@ public class Persona {
     }
 
     /**
-     * Método toString() sobrescrito. [cite: 59]
+     * Método toString() sobrescrito.
      *
      * @return Una cadena de texto con los datos de la persona.
      */
