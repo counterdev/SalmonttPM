@@ -1,0 +1,7 @@
+Isla Huar;Calbuco;1200
+Reloncaví;Cochamó;1800
+Hornopirén;Hualaihué;950
+Chiloé Central;Castro;2500
+Isla Traiguén;La Guaitecas;700
+Punta Arenas Sur;Magallanes;3200
+Puerto Aysén;Aysén;150
